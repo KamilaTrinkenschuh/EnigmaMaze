@@ -9,4 +9,4 @@ System.Collections.Generic,
 UnityEngine, 
 TMPro, 
 UnityEngine.UT, 
-UnityEngine.SceneManagement, 
+UnityEngine.SceneManagement
