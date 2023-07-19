@@ -11,4 +11,4 @@ TMPro,
 UnityEngine.UT, 
 UnityEngine.SceneManagement
 
-To play, download My Project (5) and run it on your PC. It will work on Mac, Windows and Linux
+To play, download My Project (5).exe and run it on your PC. It will work on Mac, Windows and Linux
